@@ -17,7 +17,7 @@
 - SQL (if applicable)
 
 ## 🖼️ Preview
-![Dashboard Preview](Papollo_Dashboard.jpg)
+![Dashboard Preview](https://github.com/Amar1-aj/papollo-hospital-dashboard/blob/main/papollo%20dashboard%20png.png)
 
 ---
 
